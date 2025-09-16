@@ -19,9 +19,9 @@ A comprehensive demonstration of PostgreSQL's JSONB capabilities using .NET and 
 
 ## Prerequisites
 
-- .NET 8.0 or later
+- .NET 10RC or later
 - PostgreSQL 13+ (with JSONB support)
-- Visual Studio 2022 or VS Code
+- Visual Studio 2026 Insider or VS Code (if you open vs2022, kindly recreate the sln file)
 
 ## Project Structure
 
